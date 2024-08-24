@@ -1,0 +1,21 @@
+body {
+
+
+    background: flex;
+    background-image: url('Dusty\ Rose.png');
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+    object-fit: cover;
+
+
+
+}
+
+
+.tqp {
+    font-size: 70px;
+    margin-top: 20rem;
+    align-content: center;
+    justify-content: center;
+}
